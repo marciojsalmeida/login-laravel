@@ -9,10 +9,10 @@
 
 ## About Laravel
 
-LOGIN SIMPLES NO LARAVEL
+<h1> LOGIN SIMPLES NO LARAVEL</h1>
 
-Apenas usando os comandos: 
+<h3>Apenas usando os comandos: <h3>
 
-composer require laravel/ui
-php artisan ui vue --auth
-php artisan migrate
+<p>composer require laravel/ui</p>
+<p>php artisan ui vue --auth</p>
+<p>php artisan migrate</p>
